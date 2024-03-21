@@ -212,10 +212,6 @@ This project is licensed under the [MIT License](https://github.com/Sikan777/Atl
 
 ## Authors
 
-- [Sikan777](https://github.com/Sikan777)
-- [Sapientus](https://github.com/Sapientus)
 - [OlgaTsuban](https://github.com/OlgaTsuban)
-- [hedgyv](https://github.com/hedgyv)
-- [Artem650](https://github.com/Artem650)
 
 Feel free to provide feedback, report issues, or contribute to the project!
